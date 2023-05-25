@@ -92,14 +92,14 @@ body{
 }
 
 /*Quando o usuário clicar */
-.container .conteudo .FAQ .item.ativo h3{
-    font-weight: 700;
-}
-
 .container .conteudo .FAQ .item.ativo .resposta{
     display: block;
 }
 
 .container .conteudo .FAQ .item.ativo {
     background-image: url(../imagens/icone-seta-aberta.png);
+}
+
+.container .conteudo .FAQ .item.ativo h3{
+    font-weight: 700;
 }
